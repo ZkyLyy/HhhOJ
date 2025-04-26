@@ -1,18 +1,5 @@
 # Hcode Online Judge（HOJ）
 
-![logo](./logo.png)
-
-[![Java](https://img.shields.io/badge/Java-1.8-informational)](http://openjdk.java.net/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.2.6.RELEASE-success)](https://spring.io/projects/spring-boot)
-[![SpringCloud Alibaba](https://img.shields.io/badge/Spring%20Cloud%20Alibaba-2.2.1.RELEASE-success)](https://spring.io/projects/spring-cloud-alibaba)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0.19-blue)](https://www.mysql.com/)
-[![Redis](https://img.shields.io/badge/Redis-5.0.9-red)](https://redis.io/)
-[![Nacos](https://img.shields.io/badge/Nacos-1.4.2-%23267DF7)](https://github.com/alibaba/nacos)
-[![Vue](https://img.shields.io/badge/Vue-2.6.11-success)](https://cn.vuejs.org/)
-[![Github Star](https://img.shields.io/github/stars/HimitZH/HOJ?style=social)](https://github.com/HimitZH/HOJ)
-[![Gitee Star](https://gitee.com/himitzh0730/hoj/badge/star.svg)](https://gitee.com/himitzh0730/hoj)
-[![QQ Group 598587305](https://img.shields.io/badge/QQ%20Group-598587305-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=WWGBZ5gfDiBZOcpNvM8xnZTfUq7BT4Rs&jump_from=webapi)
-
 简体中文 | [English](./README-EN.md)
 
 ## 一、总概
@@ -24,10 +11,6 @@
 - **支持私有训练、公开训练（题单）和团队功能**
 - **完善的评测功能：普通测评、特殊测评、交互测评、在线自测、子任务分组评测、文件IO**
 - **完善的比赛功能：打星队伍、关注队伍、外榜、滚榜**
-
-|               在线Demo               |                   在线文档                   |             Github&Gitee仓库地址             |           QQ群           |
-| :--------------------------------: | :--------------------------------------: | :--------------------------------------: | :---------------------: |
-| [https://hdoi.cn](https://hdoi.cn) | [https://docs.hdoi.cn](https://docs.hdoi.cn) | [https://github.com/HimitZH/HOJ](https://github.com/HimitZH/HOJ)  [https://gitee.com/himitzh0730/hoj](https://gitee.com/himitzh0730/hoj) | 598587305（已满）、743568562 |
 
 **注意：**
 
